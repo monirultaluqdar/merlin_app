@@ -5,9 +5,7 @@
 /public/sy
 /storage/*.key
 /vendor
-.env
 .env.backup
-.env.production
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -16,7 +14,6 @@ npm-debug.log
 yarn-error.log
 /.fleet
 /.idea
-/.vscode
 /public/php.ini
 /public/symbolic.php
 /storage/framework
@@ -25,3 +22,4 @@ yarn-error.log
 /storage/purifier
 /public/storage
 /storage/framework/views
+config.bat
